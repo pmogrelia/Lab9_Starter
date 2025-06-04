@@ -5,3 +5,4 @@ https://pmogrelia.github.io/Lab9_Starter/
 ## Screenshot
 [Screenshot](trackjs.png)
 Not rendering on github (too large?)
+![image](trackjs.png)
